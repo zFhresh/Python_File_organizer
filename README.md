@@ -1,4 +1,4 @@
-#Python Dosya düzenleyici
+# Python Dosya düzenleyici
 #### Programı kullanırken dikkatli olmanı öneririm.
 
 ### Gereksinimler :fa-question-circle:
